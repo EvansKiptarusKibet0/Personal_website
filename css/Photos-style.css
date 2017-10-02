@@ -1,0 +1,38 @@
+img{
+	width: 120px;
+	height: 90px;
+	margin-left: 2px;
+	display: block;
+	float: left;
+	border: 10px solid grey;
+	margin: 2px auto;
+	transition: border-radius 0.3s linear 0s;
+}
+
+img:hover{
+	border-radius: 100px;
+	cursor: pointer;
+}
+th{
+	font-size: 1em;
+	background-color: #f9ddff;
+	padding: 20px;
+}
+body{
+	font-family: sans-serif;
+	text-align: center;
+	background-color: slateblue;
+}
+table{
+	background-color: white;
+	width: 60%;
+	text-align: center;
+}
+td{
+	padding: 28px;
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: left;
+}
+
+

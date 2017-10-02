@@ -1,0 +1,24 @@
+.cont{
+	height: 70px;
+	width: 400px;
+	background-color: pink;
+	margin: 0px auto;
+}
+.cont input{
+	background-color: pink;
+}
+.cont input:hover{
+	background-color: yellow;
+	font-family: sans serif;
+	font-weight: bold;
+}
+#content{
+	height: 200px;
+	width: 400px;
+	background-color: white;
+	margin: 0px auto;
+	
+}
+body{
+	background-color: gray;
+}

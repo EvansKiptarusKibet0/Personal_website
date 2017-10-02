@@ -1,0 +1,209 @@
+header{
+	height: 100px;
+	background-color: #34495E;
+	text-align: center;
+	text-shadow: 5px 2px 4px white;
+	color: White;
+	margin: 0px auto;
+	font-family: sans serif;
+	border-radius: 10px;
+	padding-top: 5px;
+}
+body{
+	background-image: url("../images/Login.jpg");
+}
+span{
+	margin-left: 1170px;
+	
+}
+
+.cont{
+	font-family: Helvetica;
+	
+}
+
+#nav ul{
+	
+	list-style-type: none;
+
+}
+.back-icon a:hover{
+	color: Orange;
+	font-weight: bold;
+}
+.back-icon{
+	text-align: left;
+}
+
+#nav ul li{
+	width: 145px;
+	padding: 10px;
+	padding-left: 10px;
+	float: left;
+	height: 30px;
+	background-color: #34495E;
+	margin: auto;
+	font-size: 25px;
+	font-family: sans serific;
+	
+	
+}
+#nav ul li a{
+	text-decoration: none;
+	padding: 5px;
+	display: block;
+	color: cyan;
+}
+#nav ul li a:hover{
+	color: white;
+	display: block;
+}
+a:active{
+	background-color: Gray;
+}
+#nav ul li a:hover ul li{
+	display: block;
+	
+}
+.message{
+	width: 700px;
+	background-color: white;
+	height: 400px;
+	margin: 0px auto;
+	padding-top: 10px;
+	padding-left: 10px;
+	
+}
+#logout_button{
+	margin-left: 470px;
+}
+
+
+
+#content{
+	margin: auto;
+	text-align: center;
+	width: 700px;
+	height: 400px;
+	padding-top: 30px;
+	background-color: white; 
+	border-radius: 10px;
+	font-family: Helvetica;
+
+}
+
+#contact-me{
+	width: 40px;
+	height: 300px;
+	background-color: Blue;
+	margin-left: 1070px;
+	position: relative;
+	margin-top: 10px;
+	float: right;
+}
+
+a{
+	text-decoration: none;
+}
+p{
+	text-align: center;
+}
+#cv{
+	background-color: #66CCFF;
+	width: 750px;
+	height: 400px;
+	margin-left: 300px;
+	float: left;
+}
+#cv_menu{
+	
+	height: 80px;
+	width: 750px;
+	background-color: white;
+	color: blue;
+	margin-left: 0px auto;
+	border-radius: 5px;
+	text-align: left;
+	padding-top: 15px;
+}
+#cv_menu input:hover{
+	font-weight: bold;
+	font-family: Times New Roman;
+	color: pink;
+}
+.career-summary{
+	text-align: center;
+	width: 700px;
+	height: 300px;
+	text-align: center;
+	margin: 0 auto;
+}
+#footer{
+	height: 120px;
+	background-color: #34495E;
+	margin: 0px auto;
+	padding-top: 0px auto;
+	clear: both;
+}
+#regUser{
+	padding: 0px;
+	width: 700px;
+	height: 500px;
+	margin : 0 auto;
+	color: white;
+	border-radius: 10px;
+	background-color: white;
+	
+}
+.logo{
+	width: 100px;
+	height: 70px;
+	padding: 0px;
+	position: absolute;
+}
+
+table tr td a:hover{
+	color: coral;
+	font-weight: bold;
+}
+table{
+	height: 400px;
+}
+table tr{
+padding: 20px;
+margin: 5px;	
+}
+#content a:hover{
+color: Orange;
+font-weight: bold;	
+}
+
+#nav{
+
+	padding: 0px;
+	background-color: #34495E;
+	
+	margin-top: 0px;
+}
+.forgot-password{
+	width: 700px;
+	height: 420px;
+	background-color: white;
+	text-align: center;
+	margin: 0px auto;
+	border-radius: 10px;
+	
+}
+header a{
+	text-align: left;
+	padding: 0px;
+	margin-left: 0px;
+}
+.labelColor{
+	color: blue;
+}
+.btnBk{
+	color: Blue;
+	background-color: gray;
+	
+}
